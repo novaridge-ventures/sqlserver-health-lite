@@ -1,0 +1,5 @@
+# GitHub shows the Sponsor button once Sponsors is enabled on this account.
+# Polar can be added as a custom URL after the Novaridge Polar organisation is opened.
+github: novaridge-ventures
+custom:
+  - https://payhip.com/NovaridgeVentures
